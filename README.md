@@ -28,7 +28,7 @@ No database used — books are stored in memory.
 | DELETE | /books/:id    | Delete book by ID      |
 
 
-##Task Status
+## Task Status
 Completed on 29th May 2025
 # Rest API
 
